@@ -1,9 +1,10 @@
 # Hi there 👋 I'm Shivani Anilkumar  
 
 🎓 Master’s student in **Computer Science** at the University of Massachusetts Amherst (GPA: 4.00/4.00)  
-💡 Interested in **AI, ML, NLP Security, Reinforcement Learning, and Cloud Systems**  
+💡 Interested in ** Object-Oriented Programming, C++ Programming, ML, DL, Reinforcement Learning and NLP**  
 🌱 Currently a **Teaching Assistant for Advanced NLP**, supporting grading of assignments & projects covering Transformers, LoRA, Transfer Learning, SFT, DeepSeek, and RAG pipelines.  
-🚀 My vision: combine **research-driven problem solving** with **industry-scale engineering** to create impactful systems.  
+🚀 My vision: to design and build software systems that are both intelligent and reliable.  
+I’m passionate about blending the strengths of AI with solid engineering practices to create architectures that are not only innovative but also impactful in the real world.   
 
 ---
 
