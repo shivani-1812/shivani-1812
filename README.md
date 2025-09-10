@@ -1,8 +1,8 @@
-# Hi there 👋 I'm Shivani Anilkumar  
+# Hi, I'm Shivani Anilkumar 👋
 
 🎓 Master’s student in **Computer Science** at the University of Massachusetts Amherst (GPA: 4.00/4.00)  
-💡 Interested in ** Object-Oriented Programming, C++ Programming, ML, DL, Reinforcement Learning and NLP**  
-🌱 Currently a **Teaching Assistant for Advanced NLP**, supporting grading of assignments & projects covering Transformers, LoRA, Transfer Learning, SFT, DeepSeek, and RAG pipelines.  
+💡 Interested in **Object-Oriented Programming, C++ Programming, ML, DL, Reinforcement Learning and NLP**  
+🌱 **Teaching Assistant** for Advanced NLP: supporting grading and guidance on assignments/projects covering Transformers, LoRA, Transfer Learning, SFT, and RAG pipelines.
 🚀 My vision: to design and build software systems that are both intelligent and reliable. I’m passionate about blending the strengths of AI with solid engineering practices to create architectures that are not only innovative but also impactful in the real world.   
 
 ---
@@ -48,6 +48,14 @@
 
 ---
 
+## 📚 Academics
+- **M.S. Computer Science** – University of Massachusetts Amherst (2024 – 2026)  
+  - Coursework: Reinforcement Learning, Advanced NLP, Advanced Algorithms, Applied IR, Mobile Computing, Networks & Security.  
+- **B.E. Information Science Engineering** – BMS College of Engineering (2019 – 2023)  
+  - GPA: 9.78/10.0, ranked 2nd in department.
+    
+---
+
 ## 🏅 Leadership
 - **Core Committee Member** – Phase Shift 2021 (BMSCE’s Technical Symposium)  
   - Represented department at an institutional level.  
@@ -55,14 +63,6 @@
 
 - **Mentor** – Phase Shift 2022  
   - Guided the next core committee in planning and execution.  
-
----
-
-## 📚 Academics
-- **M.S. Computer Science** – University of Massachusetts Amherst (2024 – 2026)  
-  - Coursework: Reinforcement Learning, Advanced NLP, Advanced Algorithms, Applied IR, Mobile Computing, Networks & Security.  
-- **B.E. Information Science Engineering** – BMS College of Engineering (2019 – 2023)  
-  - GPA: 9.78/10.0, ranked 2nd in department.  
 
 ---
 
