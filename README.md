@@ -3,6 +3,7 @@
 🎓 Master’s student in **Computer Science** at the University of Massachusetts Amherst (GPA: 4.00/4.00)  
 💡 Interested in **Object-Oriented Programming, C++ Programming, ML, DL, Reinforcement Learning and NLP**  
 🌱 **Teaching Assistant** for Advanced NLP: supporting grading and guidance on assignments/projects covering Transformers, LoRA, Transfer Learning, SFT, and RAG pipelines.
+
 🚀 My vision: to design and build software systems that are both intelligent and reliable. I’m passionate about blending the strengths of AI with solid engineering practices to create architectures that are not only innovative but also impactful in the real world.   
 
 ---
